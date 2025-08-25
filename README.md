@@ -4,6 +4,9 @@ A Power BI dashboard that visualizes the results of a survey conducted among dat
 
 ![Dashboard Screenshot](dashboard.png)
 
+## PowerBI Link 
+[Link](https://app.powerbi.com/groups/me/reports/b3d748a8-440d-4c18-aa8c-90ba99c54b26/00a7b35c260001564390?experience=power-bi)
+
 ## 📊 Project Overview
 
 This interactive dashboard was built to analyze and present key findings from a survey of data professionals, including Data Scientists, Data Engineers, Data Analysts, and others. The goal is to uncover trends related to compensation, demographics, tools, and job satisfaction, providing valuable insights for both aspiring and current data professionals.
@@ -24,13 +27,7 @@ The dashboard is organized into several key sections:
     *   Job Title
     *   Gender
 
-## 📁 Repository Structure
 
-├── Data-Professional-Survey-Breakdown.pbix # Main Power BI Desktop file
-├── Screenshot-2025-08-25-132524.png # Dashboard screenshot
-├── data/ # (Optional) Directory for source data
-│ └── survey_data.csv # (Optional) Raw or sample data file
-└── README.md # Project documentation (this file)
 
 
 ## 🛠️ Data Sources & Transformation
