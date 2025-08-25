@@ -42,6 +42,6 @@ A simple and efficient single-table data model was used for this analysis.
 <!-- For a survey analysis, a star schema is often overkill. A single flat table is common. -->
 
 *   The model consists of one primary table containing all survey responses.
-*   Calculated tables were likely created for dimensions like `Date` or `Salary Bins` to enable more nuanced analysis.
-*   DAX measures were created to calculate averages, percentages, and totals.
+*   Calculated tables were likely created for dimensions like `Date` or `Salary ` to enable more nuanced analysis.
+*   DAX measures were created to calculate averages salary
 
