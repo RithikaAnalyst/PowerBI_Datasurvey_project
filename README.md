@@ -2,7 +2,7 @@
 
 A Power BI dashboard that visualizes the results of a survey conducted among data professionals worldwide. This project provides insights into salary distributions, gender representation, popular programming languages, and geographic trends within the data field.
 
-![Dashboard Screenshot](Screenshot-2025-08-25-132524.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📊 Project Overview
 
