@@ -1,0 +1,7 @@
+## 📁 Repository Structure
+
+├── Data-Professional-Survey-Breakdown.pbix # Main Power BI Desktop file
+├── Screenshot-2025-08-25-132524.png # Dashboard screenshot
+├── data/ # (Optional) Directory for source data
+│ └── survey_data.csv # (Optional) Raw or sample data file
+└── README.md # Project documentation (this file)
